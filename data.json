@@ -1,16 +1,31 @@
 {
-    "id": 1,
-    "name": "John Doe",
-    "email": "sample@grc.com",
-    "address": {
-        "street": "123 Main St",
-        "city": "anytown",
-        "state": "CA",
-        "zip": "12345"
+  [
+    {
+      "id": 1,
+      "quote": "In the middle of every difficulty lies opportunity.",
+      "author": "Albert Einstein"
     },
-    "company":{
-    "name": "Tech solution",
-    "position": "Software engineer",
-    "department": "Developer"
-    }
+    {
+      "id": 2,
+      "quote": "Do what you can, with what you have, where you are.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "id": 3,
+      "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+      "author": "Winston Churchill"
+    },
+    {
+      "id": 4,
+      "quote": "Happiness depends upon ourselves.",
+      "author": "Aristotle"
+    },
+    {
+      "id": 5,
+      "quote": "Be yourself; everyone else is already taken.",
+      "author": "Oscar Wilde"
+    },
+    
+  ]
+
 }
