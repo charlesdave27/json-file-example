@@ -1,0 +1,50 @@
+[
+    {
+        "name": "John Doe",
+        "email": "johndoe@example.com",
+        "phone": "123-456-7890",
+        "address": {
+            "street": "123 Main Street",
+            "city": "Anytown",
+            "state": "Anystate",
+            "zip": "12345"
+        },
+        "company": {
+            "name": "Tech Solutions",
+            "position": "Software Engineer",
+            "department": "Development"
+        }
+    },
+    {
+        "name": "Jane Smith",
+        "email": "janesmith@example.com",
+        "phone": "987-654-3210",
+        "address": {
+            "street": "456 Elm Street",
+            "city": "Othertown",
+            "state": "Otherstate",
+            "zip": "54321"
+        },
+        "company": {
+            "name": "Creative Innovations",
+            "position": "Designer",
+            "department": "Art"
+        }
+    },
+    {
+        "name": "Emily Johnson",
+        "email": "emilyj@example.com",
+        "phone": "555-555-5555",
+        "address": {
+            "street": "789 Oak Avenue",
+            "city": "Smalltown",
+            "state": "Smallstate",
+            "zip": "98765"
+        },
+        "company": {
+            "name": "Green Energy",
+            "position": "Project Manager",
+            "department": "Operations"
+        }
+    }
+]
